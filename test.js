@@ -6,4 +6,11 @@ function test(){
 }
 
 
-..
+
+function test2(){
+
+
+// Just a test Javascript file 
+
+}
+
